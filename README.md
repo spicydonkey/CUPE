@@ -1,10 +1,10 @@
-# clockwork-universe
+# CUPE
 
 ## Description
-A physics engine aimed at observing complexity in macroscopic structure built from simple building blocks
+CUPE (**Clockwork-Universe Physics Engine**) is a physics engine aimed at observing complexity in macroscopic structure built from simple building blocks
 
 ## Program structure
-The Clockwork-Universe physics engine simulates a **world** according to the **Theory of Everything** (ToE) that govern all internal interactions of the world. Compuatation relies on numerical solvers defined in **processor**.
+CUPE simulates a **world** according to the **Theory of Everything** (ToE) that govern all internal interactions of the world. Compuatation relies on numerical solvers defined in **processor**.
 
 ### World
 * Physical constant
